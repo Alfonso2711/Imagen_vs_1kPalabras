@@ -1,6 +1,3 @@
-Aquí tienes una propuesta para el `README.md`. Está estructurado para ser claro, educativo y resaltar tanto el propósito del código como tus conclusiones.
-
----
 
 # Una Imagen Dice Más Que Mil Palabras 🖼️ vs 📝
 
